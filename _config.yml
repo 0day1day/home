@@ -7,8 +7,8 @@ relative_permalinks: false
 # Setup
 title:               mlw.re
 tagline:             'Hunting Malware Like a Sir'
-description:         'NPO'
-url:                 https://0day1day.github.io/
+description:         'Hunting Malware Like a Sir'
+url:                 https://0day1day.github.io
 baseurl:             '/home/'
 paginate:            5
 
